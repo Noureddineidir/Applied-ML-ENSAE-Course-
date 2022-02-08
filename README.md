@@ -1,7 +1,7 @@
 # Applied-ML-ENSAE-Course-
 
 
-This repo covers Applied ML course assignements provided at ENSAE. Questions are directly in the notebooks. A report was written for each project. 
+This repo covers Applied ML course assignements provided at ENSAE. Questions can be found directly in the notebooks. A report was written for each project. 
 
 ---------------------------------------------------------------------------------------
 ## Topics
